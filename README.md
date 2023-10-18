@@ -1,7 +1,7 @@
 [![Build Status](https://app.travis-ci.com/samKenpachi011/edc-locator.svg?branch=develop)](https://app.travis-ci.com/samKenpachi011/locator)
 [![Coverage Status](https://coveralls.io/repos/github/samKenpachi011/edc-locator/badge.svg?branch=develop)](https://coveralls.io/github/samKenpachi011/edc-locator?branch=develop)
 [![Checks](https://github.com/samKenpachi011/edc-locator/actions/workflows/checks.yml/badge.svg)](https://github.com/samKenpachi011/edc-locator/actions/workflows/checks.yml)
-![GitHub Workflow Status (with event)](https://img.shields.io/github/actions/workflow/status/samKenpachi/edc_locator/.github%2Fworkflows%2Fchecks.yml)
+
 
 
 [![Language](https://img.shields.io/badge/Language-Python-blue.svg)](https://www.python.org/)
